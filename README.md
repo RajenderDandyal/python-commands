@@ -1,7 +1,7 @@
 # python-commands
 python commands 
 
-
+* import pdb; pdb.set_trace()
 * Kill running process
 * sudo lsof -i :portNumber
 
